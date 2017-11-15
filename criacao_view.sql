@@ -19,10 +19,3 @@ create or replace view alunoView as
  inner join professor 
  on professor.id = turma.professor_id
  ;
-
- from disciplina, disciplina_curso, disciplinas_cursadas, 
- professor, aluno
-
- where aluno.id = disciplinas_cursadas.aluno_id
- and disciplina.id = disciplinas_cursadas.disciplina_id
- and;
