@@ -73,7 +73,7 @@
 
 ### disciplina
 
-**Tabela:** `disciplines` (substitui disciplina)  
+**Tabela:** `disciplines`  
 **Descrição:** Armazena as disciplinas oferecidas pela UFBA.  
 **Colunas:**
 * `id`
