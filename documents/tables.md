@@ -2,7 +2,7 @@
 
 ### disciplinas_cursadas
 
-**Tabela:** `achieved_disciplines` (substitui disciplinas_cursadas)  
+**Tabela:** `achieved_disciplines`  
 **Descrição:** Armazena as disciplinas já cursadas pelo aluno.  
 **Colunas:**
 * `id`
@@ -11,7 +11,7 @@
 
 ### departamento
 
-**Tabela:** `areas` (substitui departamento)  
+**Tabela:** `areas`  
 **Descrição:** Armazena as áreas do conhecimento da UFBA.  
 **Colunas:** 
 * `id`
