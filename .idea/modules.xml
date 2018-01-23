@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sistemaSugestaoMatricula.iml" filepath="$PROJECT_DIR$/.idea/sistemaSugestaoMatricula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm/.idea/Holmes-Corp.iml" filepath="$PROJECT_DIR$/../ssm/.idea/Holmes-Corp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm2/.idea/ssm2.iml" filepath="$PROJECT_DIR$/../ssm2/.idea/ssm2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm3/.idea/ssm3.iml" filepath="$PROJECT_DIR$/../ssm3/.idea/ssm3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm4.iml" filepath="$PROJECT_DIR$/.idea/ssm4.iml" />
     </modules>
   </component>
 </project>
