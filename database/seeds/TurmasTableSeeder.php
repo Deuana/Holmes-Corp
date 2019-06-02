@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Turma;
+use Illuminate\Database\Seeder;
 
 class TurmasTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class TurmasTableSeeder extends Seeder
 
         Turma::insert($turmas->toArray());
     }
-
 }
-

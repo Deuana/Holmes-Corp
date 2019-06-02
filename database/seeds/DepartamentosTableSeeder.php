@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Departamento;
+use Illuminate\Database\Seeder;
 
 class DepartamentosTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class DepartamentosTableSeeder extends Seeder
 
         Departamento::insert($departamentos->toArray());
     }
-
 }
-

@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Aluno;
+use Illuminate\Database\Seeder;
 
 class AlunosTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class AlunosTableSeeder extends Seeder
 
         Aluno::insert($alunos->toArray());
     }
-
 }
-

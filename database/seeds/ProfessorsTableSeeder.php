@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Professor;
+use Illuminate\Database\Seeder;
 
 class ProfessorsTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class ProfessorsTableSeeder extends Seeder
 
         Professor::insert($professors->toArray());
     }
-
 }
-

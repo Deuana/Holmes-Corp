@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Disciplina;
+use Illuminate\Database\Seeder;
 
 class DisciplinasTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class DisciplinasTableSeeder extends Seeder
 
         Disciplina::insert($disciplinas->toArray());
     }
-
 }
-

@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Database\Seeder;
 use App\Models\Curso;
+use Illuminate\Database\Seeder;
 
 class CursosTableSeeder extends Seeder
 {
@@ -15,6 +15,4 @@ class CursosTableSeeder extends Seeder
 
         Curso::insert($cursos->toArray());
     }
-
 }
-
